@@ -17,5 +17,5 @@
 import './commands'
 
 Cypress.on('uncaught:exception', (err, runnable) => {
-    return false; // Ігнорує помилку, щоб тести не падали
+    return false;
   });
