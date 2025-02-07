@@ -1,0 +1,22 @@
+{
+    "reqiredTestDataShortMobile": {
+      "firstName": "Ivan",
+      "lastName": "Bukharynov",
+      "email": "ivan.bukharynov@example.com",
+      "gender": "Male",
+      "mobile": "12345",
+      "year": "1998",
+      "month": "August",
+      "day": "18"
+    },
+    "reqiredTestDataNonNumericMobile": {
+      "firstName": "Ivan",
+      "lastName": "Bukharynov",
+      "email": "ivan.bukharynov@example.com",
+      "gender": "Male",
+      "mobile": "abc1234567",
+      "year": "1998",
+      "month": "August",
+      "day": "18"
+    }
+}

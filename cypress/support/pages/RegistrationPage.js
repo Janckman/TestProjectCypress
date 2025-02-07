@@ -115,6 +115,7 @@ class RegistrationPage {
                     expect(value).to.eq(expectedValues[label]);
                 }
             });
+            cy.get('#closeLargeModal').click({ force: true });
         }
     }
   }

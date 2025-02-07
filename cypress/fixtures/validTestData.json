@@ -1,0 +1,18 @@
+{
+    "validTestData": {
+      "firstName": "Ivan",
+      "lastName": "Bukharynov",
+      "email": "ivan.bukharynov@example.com",
+      "gender": "Male",
+      "mobile": "1234567890",
+      "year": "1998",
+      "month": "August",
+      "day": "18",
+      "subjects": "Maths",
+      "hobbies": "Reading",
+      "picture": "photo.jpg",
+      "address": "123 My Street",
+      "state": "NCR",
+      "city": "Delhi"
+    }
+}
